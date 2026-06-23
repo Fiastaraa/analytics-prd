@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+.env
+**/dist
+**/.expo
+**/.expo-shared
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/package-lock.json
+**/pnpm-lock.yaml
+
+/generated/prisma
